@@ -1,0 +1,10 @@
+html, body{
+    margin:0;
+    padding:0;
+    background: antiquewhite;
+}
+.canvas{
+    margin:10px;
+
+    border:1px solid chocolate;
+}
